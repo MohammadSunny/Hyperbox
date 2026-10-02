@@ -1,0 +1,45 @@
+# Hyperobox
+
+> Hyperobox is a B2B growth systems agency. It finds buyers who are actively experiencing the problem a client's product solves, reaches them with personalized outreach, and books qualified sales meetings directly onto the client's calendar — so the client's team only takes the sales calls.
+
+## Key facts
+
+- Website: https://hyperobox.com/
+- Contact: hello@hyperobox.com
+- Book a strategy call: https://cal.com/mohammadsunny/30min
+- Category: B2B lead generation, outbound sales systems, appointment setting
+- Best fit: B2B companies (especially under $3M/year in revenue) that want predictable new clients without hiring SDRs
+- Commercial model: monthly subscription, mostly results-based; pause or cancel anytime; 100% satisfaction guarantee
+- Time to first results: 3–5 days
+
+## The Hyperobox Method
+
+Hyperobox targets prospects by the specific business pains the client can solve, rather than only by job title and company ("pain, not persona").
+
+1. **AI used carefully.** Humans write the email templates; AI only fills in tightly-constrained variables so each email feels personal and unique.
+2. **Pain-signal targeting.** Buyers are found through signals such as open job roles, customer reviews, company news and job changes, then contacted with an aligned offer.
+3. **One control center for 75+ inboxes.** Removes the "1 SDR = 1 inbox" bottleneck so outreach can run at any scale.
+
+## Services
+
+- **Pain-focused offer refinement:** the client's offer is rewritten in industry-specific language and aligned to prospects' real pains.
+- **Targeted leads with real interest:** "pain sniffing" research fills the pipeline with prospects who actually need the product.
+- **Streamlined sales process:** done-for-you outbound, a personalized board of meeting-ready prospects, and instant Slack/email notifications.
+
+## Plans
+
+- **Starter:** 7–18 sales meetings on autopilot; single control center of 30+ inboxes; market segment selection; real-time Slack/email notifications; full access and ownership.
+- **Pro (most popular):** 5 ideal clients in 6 months guaranteed; ad-hoc sales system build; start within 24 hours; expansion into new markets; priority support and a dedicated success manager.
+
+## Compared with alternatives
+
+- Hiring an SDR: about $8K+/month per SDR plus benefits, with no guarantee of results. Hyperobox states its service costs roughly 30% of hiring in-house and roughly 70% of hiring an agency.
+- Paid advertising: $5K+ media budgets, rising acquisition costs and platform dependency.
+- Other agencies: typically broad "spray and pray" targeting with generic messaging.
+
+## FAQ
+
+- **Why not hire an SDR?** A good SDR costs at least $8,595/month plus benefits and severance; Hyperobox reports 17x the output of a single SDR.
+- **How does payment work?** A subscription renews monthly on the same day; pause or cancel anytime.
+- **How fast are results?** First results within 3–5 days; most clients see positive ROI in the first month.
+- **Refund policy?** If a client isn't 100% satisfied, Hyperobox keeps working for free until they are.
