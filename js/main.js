@@ -221,12 +221,12 @@
           const dx = p.x - q.x, dy = p.y - q.y;
           const d = Math.sqrt(dx * dx + dy * dy);
           if (d < max) {
-            ctx.strokeStyle = 'rgba(120, 140, 255,' + (1 - d / max) * 0.22 + ')';
+            ctx.strokeStyle = 'rgba(150, 135, 255,' + (1 - d / max) * 0.22 + ')';
             ctx.lineWidth = 1;
             ctx.beginPath(); ctx.moveTo(p.x, p.y); ctx.lineTo(q.x, q.y); ctx.stroke();
           }
         }
-        ctx.fillStyle = i % 3 === 0 ? 'rgba(168, 85, 247, .8)' : 'rgba(34, 211, 238, .8)';
+        ctx.fillStyle = i % 3 === 0 ? 'rgba(100, 85, 208, .85)' : 'rgba(179, 168, 255, .8)';
         ctx.beginPath(); ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2); ctx.fill();
       }
       if (running) raf = requestAnimationFrame(step);
