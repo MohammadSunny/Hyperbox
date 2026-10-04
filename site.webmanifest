@@ -1,0 +1,14 @@
+{
+  "name": "Hyperobox",
+  "short_name": "Hyperobox",
+  "description": "Hands-off B2B growth systems: pain-based targeting and qualified sales meetings on autopilot.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e22",
+  "theme_color": "#0a0e22",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
